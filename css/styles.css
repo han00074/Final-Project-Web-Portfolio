@@ -40,3 +40,12 @@
     background-color: black;
     border: 1px solid black;
 }
+footer {
+    background-color: rgb(190, 190, 190);
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    padding-top: 30px;
+    padding-bottom: 1rem;
+    border: 2px solid rgba(142, 139, 139, 0.422);
+    text-align: center;
+}
