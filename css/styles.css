@@ -1,3 +1,4 @@
+
 /*-----background color----*/
 .banner{
     background: black url(../images/banner3.png) no-repeat center center;
@@ -41,11 +42,24 @@
     border: 1px solid black;
 }
 footer {
-    background-color: rgb(190, 190, 190);
+    background-color: #616A71;
     font-size: 15px;
     color: rgb(0, 0, 0);
     padding-top: 30px;
     padding-bottom: 1rem;
     border: 2px solid rgba(142, 139, 139, 0.422);
     text-align: center;
+}
+#our-work-text{
+    background-color: #616A71;
+    font-size: 3rem;
+    text-align: center;
+    margin: 150px;
+    border: 50px solid #616A71;
+}
+#our-packages-text{
+    background-color: #616A71;
+    font-size: 3rem;
+    text-align: center;
+    margin: 150px;
 }
