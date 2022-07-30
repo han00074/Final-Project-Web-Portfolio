@@ -63,3 +63,21 @@ footer {
     text-align: center;
     margin: 150px;
 }
+.contact-us{
+    background: url(/images/contact.jpeg) no-repeat center center;
+    max-width: 1500px; height: 550px;
+    background-size: cover;
+    
+}
+
+h2{
+    text-align: center;
+    color: #ff4500;
+}
+.contact-us-text{
+    text-align: center ;
+}
+.square-button{
+    background-color: #ff4500;
+    color: white;
+}
