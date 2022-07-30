@@ -2,7 +2,7 @@
 /*-----background color----*/
 .banner{
     background: black url(../images/banner3.png) no-repeat center center;
-    max-width: 1500px; height: 500px;
+    max-width: 2500px; height: 500px;
     background-size: cover;
 }
 #nav-logo{
@@ -65,7 +65,7 @@ footer {
 }
 .contact-us{
     background: url(/images/contact.jpeg) no-repeat center center;
-    max-width: 1500px; height: 550px;
+    max-width: 2500px; height: 550px;
     background-size: cover;
     
 }
