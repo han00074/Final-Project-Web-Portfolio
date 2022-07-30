@@ -1,0 +1,42 @@
+/*-----background color----*/
+.banner{
+    background: black url(../images/banner3.png) no-repeat center center;
+    max-width: 1500px; height: 500px;
+    background-size: cover;
+}
+#nav-logo{
+    max-width: 120px; height: auto;
+    margin: 40px;
+}
+.nav-link{
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+    border: 10px solid black;
+    border-width: medium;
+    margin: 10px 10px;
+    
+}
+.heading1{
+    font-size: 3rem;
+    text-align: center;
+    color: #ff4500;
+}
+#button1{
+    background-color: #ff4500;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+#header1{
+    background-color: #d4d4d4;
+}
+.about-us1{
+    text-align: center;
+    background-color: black;
+    border: 1px solid black;
+}
