@@ -37,7 +37,8 @@
     background-color: #d4d4d4;
 }
 .about-us1{
-    text-align: center;
+    width: fit-content;
+    margin: 0 auto 10px;
     background-color: black;
     border: 1px solid black;
 }
@@ -60,11 +61,11 @@ footer {
 #our-packages-text{
     background-color: #616A71;
     font-size: 3rem;
-    text-align: center;
-    margin: 150px;
+    width: fit-content;
+    margin: 0 auto 20px;
 }
 .contact-us{
-    background: url(/images/contact.jpeg) no-repeat center center;
+    background: url(../images/contact.jpeg) no-repeat center center;
     max-width: 2500px; height: 550px;
     background-size: cover;
     
